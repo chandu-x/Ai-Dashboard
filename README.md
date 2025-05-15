@@ -1,5 +1,5 @@
 
-# 🧠 AI Dashboard – NullClass Internship Assignment
+# 🧠 AI Dashboard 
 
 This is a single-page **AI Dashboard UI** built using **React** and **Tailwind CSS**. It includes a personalized welcome message, responsive avatar cards with cartoon avatars (from DiceBear), and a dummy modal for creating new avatars.
 
